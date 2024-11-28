@@ -58,8 +58,8 @@
 
 .container .images .image-box {
   position: relative;
-  height: 300px;
-  width: 210px;
+  height: 200px;
+  width: 300px;
   border-radius: 6px;
   overflow: hidden;
   margin: 8px;
