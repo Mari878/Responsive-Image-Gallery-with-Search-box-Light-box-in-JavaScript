@@ -55,11 +55,21 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+.container .naslovi {
+  position: float;
+  color: #464545;
+  
+  left: 15px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 
+}
 .container .images .image-box {
   position: relative;
-  height: 200px;
-  width: 300px;
+  height: 260px;
+  width: 400px;
   border-radius: 6px;
   overflow: hidden;
   margin: 8px;
