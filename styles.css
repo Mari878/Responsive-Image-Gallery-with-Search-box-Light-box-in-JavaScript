@@ -18,7 +18,14 @@
   margin: 0 auto;
   padding: 40px 20px;
 }
-
+/* logoooooooo */
+.logo2{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: -20px;
+}
 .container .search-box {
   position: relative;
   height: 42px;
